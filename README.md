@@ -2,12 +2,12 @@
 
 ## Install
 
-bower install
+    bower install
 
 
 ## Build
 
-Run ./build.sh
+    ./build.sh
 
 ## Expected
 
