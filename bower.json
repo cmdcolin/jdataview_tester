@@ -1,19 +1,11 @@
 {
-  "name": "jbrowse",
-  "version": "1.12.2-SNAPSHOT",
+  "name": "jdatatest",
+  "version": "1.0.0",
   "dependencies": {
-    "dojo":         "1.9.8",
-    "dojox":        "1.9.8",
-    "dijit":        "1.9.8",
-    "util":         "dojo/util#1.9.8",
-    "put-selector": "0.3.6",
-    "dgrid":        "0.3.17",
-    "xstyle":       "0.3.2",
-    "jDataView":    "rbuels/jDataView",
-    "jszlib":       "rbuels/jszlib",
-    "FileSaver":    "dkasenberg/FileSaver.js",
-    "json-schema":  "kriszyp/json-schema#0.2.1",
-    "lazyload":     "rbuels/lazyload#amd",
-    "dbind":        "rbuels/dbind"
+    "dojo": "1.9.8",
+    "dojox": "1.9.8",
+    "dijit": "1.9.8",
+    "util": "dojo/util#1.9.8",
+    "jdataview": "2.5.0"
   }
 }

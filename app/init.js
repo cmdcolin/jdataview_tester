@@ -3,7 +3,7 @@ require( {
                'dojo',
                'dijit',
                'dojox',
-               { name: 'jDataView', location: 'jDataView/dist/browser', main: 'jdataview' }
+               { name: 'jDataView', location: 'jdataview/dist/browser', main: 'jdataview' }
            ]
          }
 );
